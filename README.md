@@ -13,4 +13,7 @@ pip install qrcode
 ![result](https://github.com/Sanketarali/QR-Code-Generator-using-Python/blob/main/qr_code/sanket_arali_linkedin.jpg)
 
 
+# Contributing
+Contributions are always welcome! If you have any suggestions or improvements, feel free to create a pull request.
+
 
