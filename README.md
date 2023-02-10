@@ -3,7 +3,8 @@ This is a simple script to generate QR codes using Python. You can use this scri
 
 # Prerequisites
 
-Python 3 , pip
+Python 3<br>
+pip
 
 # Installation
 To install the required packages, run the following command in your terminal:
