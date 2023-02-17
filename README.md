@@ -7,7 +7,7 @@ Python 3<br>
 pip
 
 # Installation
-To install the required packages, run the following command in your terminal:
+To install the required packages, run the following command in your terminal:<br>
 pip install qrcode
 
 # Result
