@@ -10,11 +10,5 @@ pip
 To install the required packages, run the following command in your terminal:<br>
 pip install qrcode
 
-# Result
-![result](https://github.com/Sanketarali/QR-Code-Generator-using-Python/blob/main/qr_code/sanket_arali_linkedin.jpg)
-
-# Contributing
-Contributions are always welcome! If you have any suggestions or improvements, feel free to create a pull request.
-
 
 
